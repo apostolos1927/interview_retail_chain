@@ -1,0 +1,25 @@
+{"customer_id": "C17", "basket": [{"product_id": "P03", "price": 364}, {"product_id": "P07", "price": 486}, {"product_id": "P12", "price": 1127}], "date_of_purchase": "2022-07-05 18:00:37.858719"}
+{"customer_id": "C21", "basket": [{"product_id": "P03", "price": 805}], "date_of_purchase": "2022-07-06 02:53:37.858719"}
+{"customer_id": "C33", "basket": [{"product_id": "P55", "price": 961}, {"product_id": "P53", "price": 1213}, {"product_id": "P41", "price": 1093}], "date_of_purchase": "2022-07-06 01:19:37.858719"}
+{"customer_id": "C36", "basket": [{"product_id": "P20", "price": 1459}], "date_of_purchase": "2022-07-06 01:45:37.858719"}
+{"customer_id": "C41", "basket": [{"product_id": "P34", "price": 867}, {"product_id": "P26", "price": 1281}], "date_of_purchase": "2022-07-05 19:23:37.858719"}
+{"customer_id": "C46", "basket": [{"product_id": "P16", "price": 1900}], "date_of_purchase": "2022-07-06 06:22:37.858719"}
+{"customer_id": "C61", "basket": [{"product_id": "P33", "price": 1867}, {"product_id": "P33", "price": 25}, {"product_id": "P25", "price": 595}], "date_of_purchase": "2022-07-05 19:49:37.858719"}
+{"customer_id": "C67", "basket": [{"product_id": "P26", "price": 1494}, {"product_id": "P30", "price": 552}], "date_of_purchase": "2022-07-06 04:19:37.858719"}
+{"customer_id": "C69", "basket": [{"product_id": "P55", "price": 265}, {"product_id": "P56", "price": 1780}, {"product_id": "P46", "price": 1770}], "date_of_purchase": "2022-07-05 15:16:37.858719"}
+{"customer_id": "C72", "basket": [{"product_id": "P31", "price": 1484}, {"product_id": "P22", "price": 1371}, {"product_id": "P33", "price": 443}], "date_of_purchase": "2022-07-05 16:01:37.858719"}
+{"customer_id": "C75", "basket": [{"product_id": "P62", "price": 557}], "date_of_purchase": "2022-07-06 03:13:37.858719"}
+{"customer_id": "C76", "basket": [{"product_id": "P29", "price": 617}, {"product_id": "P22", "price": 1599}, {"product_id": "P32", "price": 7}], "date_of_purchase": "2022-07-06 03:25:37.858719"}
+{"customer_id": "C87", "basket": [{"product_id": "P12", "price": 778}, {"product_id": "P11", "price": 918}], "date_of_purchase": "2022-07-06 06:40:37.858719"}
+{"customer_id": "C91", "basket": [{"product_id": "P32", "price": 213}], "date_of_purchase": "2022-07-05 19:27:37.858719"}
+{"customer_id": "C94", "basket": [{"product_id": "P26", "price": 1108}], "date_of_purchase": "2022-07-06 04:33:37.858719"}
+{"customer_id": "C95", "basket": [{"product_id": "P03", "price": 1963}, {"product_id": "P03", "price": 1723}], "date_of_purchase": "2022-07-05 21:55:37.858719"}
+{"customer_id": "C101", "basket": [{"product_id": "P56", "price": 1322}, {"product_id": "P50", "price": 300}], "date_of_purchase": "2022-07-06 01:42:37.858719"}
+{"customer_id": "C109", "basket": [{"product_id": "P26", "price": 326}, {"product_id": "P27", "price": 365}], "date_of_purchase": "2022-07-06 01:39:37.858719"}
+{"customer_id": "C118", "basket": [{"product_id": "P39", "price": 595}, {"product_id": "P39", "price": 820}, {"product_id": "P38", "price": 986}], "date_of_purchase": "2022-07-06 00:29:37.858719"}
+{"customer_id": "C122", "basket": [{"product_id": "P50", "price": 1985}], "date_of_purchase": "2022-07-06 07:06:37.858719"}
+{"customer_id": "C124", "basket": [{"product_id": "P06", "price": 45}, {"product_id": "P05", "price": 270}], "date_of_purchase": "2022-07-05 18:55:37.858719"}
+{"customer_id": "C126", "basket": [{"product_id": "P11", "price": 1508}, {"product_id": "P02", "price": 1692}], "date_of_purchase": "2022-07-06 04:29:37.858719"}
+{"customer_id": "C131", "basket": [{"product_id": "P28", "price": 1557}, {"product_id": "P24", "price": 177}, {"product_id": "P26", "price": 1432}], "date_of_purchase": "2022-07-05 21:48:37.858719"}
+{"customer_id": "C133", "basket": [{"product_id": "P48", "price": 1221}, {"product_id": "P46", "price": 254}, {"product_id": "P42", "price": 732}], "date_of_purchase": "2022-07-06 04:30:37.858719"}
+{"customer_id": "C135", "basket": [{"product_id": "P18", "price": 183}, {"product_id": "P15", "price": 1060}], "date_of_purchase": "2022-07-05 14:36:37.858719"}
